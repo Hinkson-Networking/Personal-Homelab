@@ -1,0 +1,20 @@
+Alpha – Workstation / Hypervisor
+Hardware Specs  
+- **CPU:** Ryzen 9 5900XT (16 cores / 32 threads)  
+- **Memory:** 64GB DDR4 3200 MHz  
+- **Motherboard:** MSI B550-A Pro  
+- **GPU:** Radeon RX 9060XT (16GB VRAM)  
+- **Storage:**  
+  - 1TB Samsung NVMe SSD (Windows)  
+  - 1TB Crucial SSD (Arch Linux)  
+  - 2TB HDD  
+  - 3TB HDD
+Services & Projects  
+- Proxmox virtualization  
+- Multi-OS testing (Windows, Arch, Debian, Mint)  
+- GPU passthrough labs  
+- Benchmarking & performance tuning
+Notes & Lessons Learned  
+- Fine-tuning BIOS for stable GPU passthrough  
+- Arch Linux gives max control but requires more setup  
+- Labeling drives helped keep VM storage pools organized
