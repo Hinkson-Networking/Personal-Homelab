@@ -71,10 +71,10 @@ This serves as a lab notebook documenting the evolution of the setup.
 
 Technologies in Use
 
-Virtualization: Proxmox, Docker, QEMU
+Virtualization: Proxmox, and VirtualBox
 
 Storage: SMB/NFS shares, RAID configurations
 
 Networking: VLANs, firewall rules, switch configs
 
-Operating Systems: Arch Linux, Windows, Linux Mint
+Operating Systems: Arch Linux, Windows, Linux Mint, TrueNas Scale
