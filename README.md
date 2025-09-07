@@ -18,27 +18,6 @@ Provide reproducible setups for anyone following along
 
 Track the growth of the lab over months and years
 
-
-
----
-
-Repo Structure
-
-.
-├── alpha/        # Workstation + VM testing
-├── bravo/        # Firewall, security services
-├── charlie/      # Storage server
-├── delta/        # Entertainment server
-├── echo/         # Test bench / emulation
-├── foxtrot/      # Productivity laptop
-├── gamma/        # Gaming laptop
-├── network/      # Switches, patch panels, peripherals
-├── journals/     # Update logs and history
-└── README.md     # You are here
-
-
----
-
 Current Nodes
 
 Alpha – Ryzen 9 powerhouse for testing, dual-boot Arch + Windows
